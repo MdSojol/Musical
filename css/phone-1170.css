@@ -1,0 +1,59 @@
+.search {
+    right: 30px;
+}
+
+.third-section-card .third-card-box {
+    width: 300px;
+}
+
+.third-section-card .third-card-box img {
+    margin-left: 93px;
+    margin-top: 56px;
+
+}
+
+.third-section-card .third-card-box .third-card-box-text p {
+    width: 90%;
+}
+
+.foth-section-left-img img {
+    width: 100%;
+}
+
+.foth-section {
+    height: 773px;
+}
+
+.fith-section-left-img img{
+    width: 100%;
+}
+
+.fith-section {
+    height: 773px;
+   
+}
+
+
+.footer-right table tr th {
+    font-size: 20px;
+}
+
+
+.second-section-card {
+    grid-template-columns: auto auto;
+    justify-items: center;
+}
+
+.second-section{
+    height: auto;
+}
+
+.third-section-card{
+    grid-template-columns: auto auto;
+}
+.third-section{
+    height: auto;
+}
+.card-box-3{
+    column-span: auto auto;
+}
