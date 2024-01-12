@@ -1,0 +1,53 @@
+.fith-section {
+    grid-template-columns: 1fr;
+}
+
+.foth-section{
+    grid-template-columns: 1fr;
+    padding-bottom: 10px;
+}
+.fith-section {
+    display: flex;
+    flex-direction: column-reverse;
+    padding-bottom: 10px;
+}
+
+
+.seventh-section .seventh-section-text {
+    left: 150px;
+}
+
+
+.seventh-section .seventh-section-text p {
+    font-size: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 21px;
+}
+
+
+.seventh-section .seventh-section-text h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 42px;
+}
+
+.search{
+    width: auto;
+}
+
+.second-section .second-section-header h1{
+    font-size: 50px;
+}
+
+.fast-section-text h1 {
+    font-size: 55px;
+}
+
+.fast-section-text p {
+    width: 400px;
+    font-size: 13px;
+}
+
+.fast-section-text button {
+    font-size: 20px;
+    width: 180px;
+}

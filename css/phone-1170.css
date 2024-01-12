@@ -21,7 +21,7 @@
 }
 
 .foth-section {
-    height: 773px;
+    height: 100%;
 }
 
 .fith-section-left-img img{
@@ -29,7 +29,7 @@
 }
 
 .fith-section {
-    height: 773px;
+    height: 100%;
    
 }
 
@@ -55,5 +55,18 @@
     height: auto;
 }
 .card-box-3{
-    column-span: auto auto;
+    
 }
+
+.footer-right table tr td{
+    font-size: 15px;
+}
+.eight-section-email-subscribe input {
+    padding: 14px 22px 9px 9px;
+}
+
+.eight-section-email-subscribe button{
+    padding: 7px 12px 7px 9px;
+}
+
+

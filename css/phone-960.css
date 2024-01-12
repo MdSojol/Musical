@@ -1,0 +1,39 @@
+
+
+
+
+.header-main-div{
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+}
+
+.logo{
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.logo img{
+    margin: 0px;
+} 
+
+.search {
+    margin: auto;
+}
+
+.fast-section-text{
+
+}
+
+.fast-section-text h1{
+    font-size: 70px;
+}
+
+.fast-section-text p {
+    font-size: 18px;
+    width: 600px;
+}
+
+.fast-section-text button {
+    font-size: 25px;
+}

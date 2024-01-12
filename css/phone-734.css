@@ -1,0 +1,57 @@
+.second-section-card {
+    grid-template-columns: auto;
+    justify-items: center;
+}
+
+
+.third-section-card{
+    grid-template-columns: auto;
+}
+
+.fast-section-text p{
+    width: 500px;
+}
+
+.seventh-section .seventh-section-text {
+    width: 49%;
+    position: absolute;
+    top: 197px;
+    left: 185px;
+}
+
+
+.eighth-section-div {
+    width: 57%;
+    margin: auto;
+    padding-top: 147px;
+    position: relative;
+}
+
+
+.footer {
+    grid-template-columns: 1fr;
+    height: auto;
+}
+
+
+.footer-left ul {
+    display: flex;
+    /* margin-top: 22px; */
+    /* margin-left: 46px; */
+    /* margin: auto; */
+    justify-content: center;
+}
+
+
+.footer-left h1 {
+    text-align: center;
+}
+
+.footer-left p {
+   text-align: center;
+}
+.footer-right table {
+    border-collapse: collapse;
+    width: 90%;
+    text-align: center;
+}

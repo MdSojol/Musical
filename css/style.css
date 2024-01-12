@@ -12,7 +12,7 @@
 }
 
 .logo {
-    position: absolute;
+
 }
 
 .logo img {
@@ -46,8 +46,7 @@
 
 
 .search {
-    position: absolute;
-    right: 70px;
+    width: 30%;
 }
 
 .search form {
@@ -160,6 +159,9 @@
     width: 50%;
     margin: auto;
     padding-top: 70px;
+    position: relative;
+    z-index: 5;
+    text-shadow: 1px -1px 10px black;
 }
 
 .second-section .second-section-header h1 {
@@ -612,7 +614,8 @@
     width: 95%;
     margin: auto;
     padding-top: 22px;
-    padding-left: 53px;
+    display: flex;
+    justify-content: center;
 }
 
 .eight-section-email-subscribe input {
@@ -729,3 +732,4 @@
 .footer-right table tr td:hover{
     cursor: pointer;
 }
+

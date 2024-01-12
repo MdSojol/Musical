@@ -1,0 +1,92 @@
+.menu .menu-ul li a {
+    font-size: 11px;
+}
+
+
+.search form input {
+    padding: 7px;
+    font-size: 12px;
+}
+
+.search form button {
+    
+    padding: 7px;
+    font-size: 15px;
+}
+
+.fast-section-text h1 {
+    font-size: 44px;
+}
+.fast-section-text p {
+    width: 300px;
+    font-size: 11px;
+}
+
+.fast-section-text button {
+    font-size: 17px;
+    width: 139px;
+    padding: 5px 0px;
+}
+
+
+.second-section .second-section-header h1 {
+    font-size: 34px;
+}
+
+
+.second-section .second-section-header p {
+    color: rgb(217, 217, 217);
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 20px 20px 45px 20px;
+}
+
+
+.second-section::before{
+
+    -webkit-filter: blur(4px);
+
+}
+
+
+.sixth-section .sixth-section-gd-item h1 {
+    font-size: 20px;
+}
+
+
+.sixth-section .sixth-section-gd-item p {
+    font-size: 10px;
+}
+
+
+.sixth-section .sixth-section-text {
+    width: 85%;
+}
+
+
+.sixth-section .sixth-section-text h1 {
+    font-size: 42px;
+}
+
+.sixth-section .sixth-section-text p {
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+
+.seventh-section .seventh-section-text {
+    left: 120px;
+}
+
+
+.seventh-section .seventh-section-text h1 {
+    font-size: 30px;
+}
+
+
+.seventh-section .seventh-section-text p {
+    font-size: 14px;
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 18px;
+}
